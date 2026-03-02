@@ -19,5 +19,11 @@ header#siteheader{
 h1#sitetitle{
   font-family:Arial;
   font-size:30px;
-  color:orange;
+  color:orange; 
+  text-align:center;
+}
+
+/*site motto*/
+span#sitemotto{
+  
 }
