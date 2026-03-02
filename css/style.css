@@ -9,6 +9,6 @@ div#divmaincontainer{
 header#siteheader{
   width:100%;
   height:100px;
-  background-image:linear-gradient(greenyellow, cyan, teal)
-  border:1px solid darkgrey
+  background-image:linear-gradient(greenyellow, cyan, teal);
+  border:1px solid darkgrey;
 }
