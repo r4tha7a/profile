@@ -12,5 +12,11 @@ header#siteheader{
   background-image:linear-gradient(greenyellow, cyan, teal);
   border:1px solid darkgrey;
   border-radius:15px 15px 0 0;
-  
+}
+
+/*styling site title*/
+h1#sitetitle{
+  font-family:Arial;
+  font-size:30px
+  color:orange
 }
