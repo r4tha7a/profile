@@ -17,6 +17,6 @@ header#siteheader{
 /*styling site title*/
 h1#sitetitle{
   font-family:Arial;
-  font-size:30px
-  color:orange
+  font-size:30px;
+  color:orange;
 }
