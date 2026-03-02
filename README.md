@@ -1,5 +1,5 @@
 # profile
-This is a personal website about myself Rathaya Tanyala. It specifies:
+This is a personal website about myself, Rathaya Tanyala. It specifies:
 -my personal details
 -my educational details
 -software development experience
